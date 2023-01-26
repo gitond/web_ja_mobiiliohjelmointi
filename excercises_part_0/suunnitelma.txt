@@ -1,0 +1,9 @@
+Tehtävän 0.1 HTML suunnitelma:
+
+Nettisivu Smash Brothers pelaamisestani. Sisältämät osiot:
+
+Linkki:		Smash Ultimaten Wikipediasivulle
+Taulukko:	Joitain Smash voittoja/häviöitä hahmoittain
+Lista:		Lista omistamistani Smash Bros peleistä
+Kuva:		Joku minun ottamani Smash screenshot
+Form:		Kommenttikenttää simuloiva elementti
